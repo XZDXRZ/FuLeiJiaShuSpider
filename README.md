@@ -2,6 +2,6 @@
 
 WHY!!!
 
-Why the class of these tags are different!
+Why the class in each pages are different!
 
 I gave up.
